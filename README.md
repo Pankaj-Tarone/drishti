@@ -3,6 +3,8 @@
 
 ### Demonstration Video: https://youtu.be/H0gIxfBkqQA
 
+![Drishti - Prototype](/images/file-1.jpeg?raw=true "Drishti - Prototype")
+
 Our project Drishti focuses on aiding the visually impaired. We have designed a wearable to aid the blind in their day to day activities.
 
 Our project Drishti focuses on aiding the visually impaired. We intend to aid the blind by making them aware of their surroundings by using our wearable and also aid them in general activities such reading a book, reading and making sense of sign boards and recognizing currency notes.
