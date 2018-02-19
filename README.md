@@ -3,7 +3,7 @@
 
 ### Demonstration Video: https://youtu.be/H0gIxfBkqQA
 
-![Drishti - Prototype](/images/file-1.jpeg?raw=true "Drishti - Prototype")
+<img src="https://raw.githubusercontent.com/pan111/drishti/master/images/file-1.jpeg" width="600" height="500"/>
 
 Our project Drishti focuses on aiding the visually impaired. We have designed a wearable to aid the blind in their day to day activities.
 
