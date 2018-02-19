@@ -1,8 +1,9 @@
 
 # Drishti - Beyond The Sight
 
-### Introduction Video: https://youtu.be/AQ7sx9bmhGU
-### Demonstration Video: https://youtu.be/q6S8yd8G6Dw
+#### Introduction Video: https://youtu.be/AQ7sx9bmhGU
+#### Demonstration Video: https://youtu.be/q6S8yd8G6Dw
+#### Project Presentation: https://github.com/pan111/drishti/blob/master/presentation/Nvidia%20Drishti.pdf
 
 <img src="https://raw.githubusercontent.com/pan111/drishti/master/images/file-1.jpeg" width="600" height="500"/>
 
