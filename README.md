@@ -1,7 +1,7 @@
 
 # Drishti - Beyond The Sight
 
-## Demonstration Video: https://youtu.be/H0gIxfBkqQA
+### Demonstration Video: https://youtu.be/H0gIxfBkqQA
 
 Our project Drishti focuses on aiding the visually impaired. We have designed a wearable to aid the blind in their day to day activities.
 
